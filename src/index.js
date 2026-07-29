@@ -11,7 +11,7 @@
 export default {
   async fetch(request, env, ctx) {
     // 假设这是你的 JSON 数据
-    const tvboxFtyJsonData =
+    const tvboxFtyAPIJsonData =
 {
 "spider":"./jar/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847",
 "logo":"https://avatars.githubusercontent.com/u/58679624?v=4",
@@ -155,7 +155,7 @@ export default {
 };
 
     // 返回一个 Response 对象，并设置正确的 Content-Type
-    return new Response(JSON.stringify(tvboxFtyJsonData), {
+    return new Response(JSON.stringify(tvboxFtyAPIJsonData), {
       headers: {
         "Content-Type": "application/json"
       }
