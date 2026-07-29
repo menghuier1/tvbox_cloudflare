@@ -388,7 +388,7 @@ export default {
 
 # github创建仓库及提交
 ---
-![image-20260729154524486](.\images\image-20260729154524486.png)
+![image-20260729154524486](./images/image-20260729154524486.png)
 
 
 
@@ -416,23 +416,23 @@ branch 'main' set up to track 'origin/main'.
 
 登录cloudflare-->构建-->计算-->Workers 和 Pages-->创建新应用
 
-![image-20260729154958106](.\images\image-20260729154958106.png)
+![image-20260729154958106](./images/image-20260729154958106.png)
 
-![image-20260729155016999](.\images\image-20260729155016999.png)
+![image-20260729155016999](./images/image-20260729155016999.png)
 
-![image-20260729155038000](.\images\image-20260729155038000.png)
+![image-20260729155038000](./images/image-20260729155038000.png)
 
-![image-20260729155111250](.\images\image-20260729155111250.png)
+![image-20260729155111250](./images/image-20260729155111250.png)
 
-![image-20260729155132980](.\images\image-20260729155132980.png)
+![image-20260729155132980](./images/image-20260729155132980.png)
 
-![image-20260729155145136](.\images\image-20260729155145136.png)
+![image-20260729155145136](./images/image-20260729155145136.png)
 
-![image-20260729161953211](.\images\image-20260729161953211.png)
+![image-20260729161953211](./images/image-20260729161953211.png)
 
 
 
-![image-20260729162115788](.\images\image-20260729162115788.png)
+![image-20260729162115788](./images/image-20260729162115788.png)
 
 # 域名配置
 
@@ -440,15 +440,15 @@ branch 'main' set up to track 'origin/main'.
 
 
 
-![image-20260729162207807](.\images\image-20260729162207807.png)
+![image-20260729162207807](./images/image-20260729162207807.png)
 
-![image-20260729162648407](.\images\image-20260729162648407.png)
+![image-20260729162648407](./images/image-20260729162648407.png)
 
-![image-20260729162714485](.\images\image-20260729162714485.png)
+![image-20260729162714485](./images/image-20260729162714485.png)
 
 
 
-![image-20260729162446356](.\images\image-20260729162446356.png)
+![image-20260729162446356](./images/image-20260729162446356.png)
 
 
 
@@ -458,15 +458,15 @@ branch 'main' set up to track 'origin/main'.
 
 
 
-![image-20260729161705815](.\images\image-20260729161705815.png)
+![image-20260729161705815](./images/image-20260729161705815.png)
 
 
 
-![image-20260729161509605](.\images\image-20260729161509605.png)
+![image-20260729161509605](./images/image-20260729161509605.png)
 
-![image-20260729161533207](.\images\image-20260729161533207.png)
+![image-20260729161533207](./images/image-20260729161533207.png)
 
-![image-20260729161556113](.\images\image-20260729161556113.png)
+![image-20260729161556113](./images/image-20260729161556113.png)
 
 # 域名托管到cloudflare
 
@@ -474,15 +474,15 @@ branch 'main' set up to track 'origin/main'.
 
 
 
-![image-20260729163155136](.\images\image-20260729163155136.png)
+![image-20260729163155136](./images/image-20260729163155136.png)
 
-![image-20260729163217144](.\images\image-20260729163217144.png)
+![image-20260729163217144](./images/image-20260729163217144.png)
 
-![image-20260729163114684](.\images\image-20260729163114684.png)
+![image-20260729163114684](./images/image-20260729163114684.png)
 
 ## 域名配置dns
 
-![image-20260729163309453](.\images\image-20260729163309453.png)
+![image-20260729163309453](./images/image-20260729163309453.png)
 
 ## 域名注册商配置cloudflare的dns
 
@@ -490,6 +490,6 @@ branch 'main' set up to track 'origin/main'.
 >
 > jermaine.ns.cloudflare.com
 
-![image-20260729163451507](.\images\image-20260729163451507.png)
+![image-20260729163451507](./images/image-20260729163451507.png)
 
-![image-20260729163018773](.\images\image-20260729163018773.png)
+![image-20260729163018773](./images/image-20260729163018773.png)
